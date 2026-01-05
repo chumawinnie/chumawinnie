@@ -54,23 +54,37 @@
 <p align="center">
   <img src="https://img.shields.io/badge/nf--core-24B064?style=flat-square&logo=nextflow&logoColor=white" alt="nf-core"/>
   <img src="https://img.shields.io/badge/Sarek-24B064?style=flat-square" alt="Sarek"/>
-  <img src="https://img.shields.io/badge/GATK-orange?style=flat-square" alt="GATK"/>
-  <img src="https://img.shields.io/badge/BWA-blue?style=flat-square" alt="BWA"/>
-  <img src="https://img.shields.io/badge/Mutect2-red?style=flat-square" alt="Mutect2"/>
-  <img src="https://img.shields.io/badge/VEP-purple?style=flat-square" alt="VEP"/>
-  <img src="https://img.shields.io/badge/VEP-purple?style=flat-square" alt="STAR"/>
-  <img src="https://img.shields.io/badge/VEP-purple?style=flat-square" alt="HISAT"/>
-  <img src="https://img.shields.io/badge/VEP-purple?style=flat-square" alt="Stringtie"/>
-  <img src="https://img.shields.io/badge/VEP-purple?style=flat-square" alt="Ballgown"/>
-  <img src="https://img.shields.io/badge/VEP-purple?style=flat-square" alt="Deseq2"/>
-  <img src="https://img.shields.io/badge/Sequenza-green?style=flat-square" alt="Sequenza"/>
-  <img src="https://img.shields.io/badge/SigProfiler-teal?style=flat-square" alt="SigProfiler"/>
-  <img src="https://img.shields.io/badge/pVACtools-navy?style=flat-square" alt="pVACtools"/>
-  <img src="https://img.shields.io/badge/OptiType-crimson?style=flat-square" alt="OptiType"/>
+  <img src="https://img.shields.io/badge/GATK-3C78D8?style=flat-square" alt="GATK"/>
+  <img src="https://img.shields.io/badge/BWA-1E90FF?style=flat-square" alt="BWA"/>
+  <img src="https://img.shields.io/badge/Mutect2-DC143C?style=flat-square" alt="Mutect2"/>
+  <img src="https://img.shields.io/badge/Strelka2-FF6347?style=flat-square" alt="Strelka2"/>
+  <img src="https://img.shields.io/badge/VEP-8A2BE2?style=flat-square" alt="VEP"/>
+  <img src="https://img.shields.io/badge/ANNOVAR-9370DB?style=flat-square" alt="ANNOVAR"/>
+  <img src="https://img.shields.io/badge/Sequenza-2E8B57?style=flat-square" alt="Sequenza"/>
+  <img src="https://img.shields.io/badge/CNVkit-228B22?style=flat-square" alt="CNVkit"/>
+  <img src="https://img.shields.io/badge/SigProfiler-20B2AA?style=flat-square" alt="SigProfiler"/>
+  <img src="https://img.shields.io/badge/MSIsensor-FF8C00?style=flat-square" alt="MSIsensor"/>
+  <img src="https://img.shields.io/badge/OptiType-B22222?style=flat-square" alt="OptiType"/>
+  <img src="https://img.shields.io/badge/HLA--HD-CD5C5C?style=flat-square" alt="HLA-HD"/>
+  <img src="https://img.shields.io/badge/pVACtools-191970?style=flat-square" alt="pVACtools"/>
+  <img src="https://img.shields.io/badge/NetMHCpan-4169E1?style=flat-square" alt="NetMHCpan"/>
+  <img src="https://img.shields.io/badge/STAR-FFD700?style=flat-square" alt="STAR"/>
+  <img src="https://img.shields.io/badge/HISAT2-FFA500?style=flat-square" alt="HISAT2"/>
+  <img src="https://img.shields.io/badge/Salmon-FA8072?style=flat-square" alt="Salmon"/>
+  <img src="https://img.shields.io/badge/kallisto-E9967A?style=flat-square" alt="kallisto"/>
+  <img src="https://img.shields.io/badge/featureCounts-DEB887?style=flat-square" alt="featureCounts"/>
+  <img src="https://img.shields.io/badge/StringTie-32CD32?style=flat-square" alt="StringTie"/>
+  <img src="https://img.shields.io/badge/DESeq2-6A5ACD?style=flat-square" alt="DESeq2"/>
+  <img src="https://img.shields.io/badge/edgeR-7B68EE?style=flat-square" alt="edgeR"/>
+  <img src="https://img.shields.io/badge/Ballgown-9932CC?style=flat-square" alt="Ballgown"/>
+  <img src="https://img.shields.io/badge/clusterProfiler-8B008B?style=flat-square" alt="clusterProfiler"/>
+  <img src="https://img.shields.io/badge/Seurat-00CED1?style=flat-square" alt="Seurat"/>
+  <img src="https://img.shields.io/badge/Scanpy-008B8B?style=flat-square" alt="Scanpy"/>
+  <img src="https://img.shields.io/badge/CellRanger-5F9EA0?style=flat-square" alt="CellRanger"/>
+  <img src="https://img.shields.io/badge/Monocle-48D1CC?style=flat-square" alt="Monocle"/>
 </p>
 
 ---
-
 ### 🚀 Featured Projects
 
 <p align="center">
