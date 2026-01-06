@@ -24,6 +24,15 @@
 
 ---
 
+### 🔬 Clinical Genomics Pipeline Architecture
+
+<p align="center">
+  <img src="WES_automated_pipline.png" alt="WES Pipeline Flowchart" width="900"/>
+</p>
+
+---
+
+
 ### 🛠️ Tech Stack
 
 <p align="center">
