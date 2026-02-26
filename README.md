@@ -19,8 +19,8 @@
 - 🔬 Bioinformatics Researcher specializing in **clinical genomics** and **cancer bioinformatics**
 - 🏥 Developing automated pipelines for **molecular tumor board** presentations
 - 📊 Working with WES, WGS, Panel Sequencing, and RNA-seq (bulk & single-cell)
-###- 📝 Published in the **European Journal of Cancer**
-##- 🌱 Currently exploring opportunities in Switzerland's biotech sector
+- 📝 Published in the **European Journal of Cancer**
+- 🌱 Currently exploring opportunities in Switzerland's biotech sector
 
 ---
 
