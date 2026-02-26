@@ -9,7 +9,7 @@
 
 <p align="center">
   <em>Clinical Genomics & Cancer Bioinformatics🎗️| Molecular Tumor Board Support</em><br>
-  <em>University of Augsburg Bioinformatics Core Facility 🇩🇪</em>
+  <em>University of Augsburg  🇩🇪</em>
 </p>
 
 ---
