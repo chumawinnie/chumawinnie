@@ -9,7 +9,7 @@
 
 <p align="center">
   <em>Clinical Genomics & Cancer Bioinformatics🎗️| Molecular Tumor Board Support</em><br>
-  <em> Augsburg  🇩🇪</em>
+  <em>  🇩🇪</em>
 </p>
 
 ---
