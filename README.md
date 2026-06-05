@@ -9,7 +9,7 @@
 
 <p align="center">
   <em>Clinical Genomics & Cancer Bioinformatics🎗️| Molecular Tumor Board Support | ML Scientist</em><br>
-  <em>  Basel, 🇨🇭 🇩🇪</em>
+  <em>  Basel 🇨🇭, Bayern 🇩🇪</em>
 </p>
 
 ---
