@@ -94,7 +94,7 @@
 </p>
 
 ---
-### 🚀 Featured Projects
+###  Featured Projects
 
 <p align="center">
   <a href="https://github.com/chumawinnie/hla-neoantigen-pipeline">
