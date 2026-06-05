@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <em>Clinical Genomics & Cancer Bioinformatics🎗️| Molecular Tumor Board Support</em><br>
+  <em>Clinical Genomics & Cancer Bioinformatics🎗️| Molecular Tumor Board Support | ML Scientist</em><br>
   <em>  Basel, 🇨🇭 🇩🇪</em>
 </p>
 
