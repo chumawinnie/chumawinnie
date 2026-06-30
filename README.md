@@ -60,9 +60,11 @@
 
 ### 🧪 Bioinformatics Tools
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/nf--core-24B064?style=flat-square&logo=nextflow&logoColor=white" alt="nf-core"/>
   <img src="https://img.shields.io/badge/Sarek-24B064?style=flat-square" alt="Sarek"/>
+  <img src="https://img.shields.io/badge/Illumina%20DRAGEN-0084D1?style=flat-square" alt="Illumina DRAGEN"/>
   <img src="https://img.shields.io/badge/GATK-3C78D8?style=flat-square" alt="GATK"/>
   <img src="https://img.shields.io/badge/BWA-1E90FF?style=flat-square" alt="BWA"/>
   <img src="https://img.shields.io/badge/Mutect2-DC143C?style=flat-square" alt="Mutect2"/>
